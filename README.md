@@ -6,4 +6,6 @@
 
 **Use of Reactjs And CSS Styling**
 
+**Responsive Design**
+
 **Deployed Link:- https://port-folio-ten-xi.vercel.app/**
